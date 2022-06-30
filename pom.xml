@@ -15,8 +15,6 @@
         <module>gulimall-ware</module>
         <module>gulimall-member</module>
         <module>gulimall-search</module>
-        <module>renren-fast</module>
-        <module>renren-generator-master</module>
     </modules>
 
     <properties>
